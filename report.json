@@ -1,0 +1,331 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 6244963512,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Trigger.beforeScenarioActions(Scenario)"
+            }
+          }
+        ],
+        "line": 5,
+        "name": "Title of your scenario",
+        "description": "",
+        "id": "feature-file-to-update-the-status-in-jira;title-of-your-scenario",
+        "after": [
+          {
+            "result": {
+              "duration": 1269161827,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Trigger.updateStatusInJira(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 70570701,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I want to write a step with precondition",
+            "match": {
+              "location": "Test.i_want_to_write_a_step_with_precondition()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 438303,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "some other precondition",
+            "match": {
+              "location": "Test.some_other_precondition()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 8728,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I complete action",
+            "match": {
+              "location": "Test.i_complete_action()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 8242,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "some other action",
+            "match": {
+              "location": "Test.some_other_action()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 161939,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "yet another action",
+            "match": {
+              "location": "Test.yet_another_action()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "line": 4,
+            "name": "@ZAP-2"
+          }
+        ]
+      },
+      {
+        "comments": [
+          {
+            "line": 11,
+            "value": "#Then update the Test Step in Jira 2"
+          }
+        ],
+        "before": [
+          {
+            "result": {
+              "duration": 5880198245,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Trigger.beforeScenarioActions(Scenario)"
+            }
+          }
+        ],
+        "line": 14,
+        "name": "Title of your scenario",
+        "description": "",
+        "id": "feature-file-to-update-the-status-in-jira;title-of-your-scenario",
+        "after": [
+          {
+            "result": {
+              "duration": 1250938303,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Trigger.updateStatusInJira(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 62061,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "I want to write a step with precondition",
+            "match": {
+              "location": "Test.i_want_to_write_a_step_with_precondition()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 807758,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "some other precondition",
+            "match": {
+              "location": "Test.some_other_precondition()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 45090,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "I complete action",
+            "match": {
+              "location": "Test.i_complete_action()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 29576,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "some other action",
+            "match": {
+              "location": "Test.some_other_action()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3106911,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "yet another action",
+            "match": {
+              "location": "Test.yet_another_action()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "line": 13,
+            "name": "@ZAP-3"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 10025015770,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Trigger.beforeScenarioActions(Scenario)"
+            }
+          }
+        ],
+        "line": 22,
+        "name": "Title of your scenario",
+        "description": "",
+        "id": "feature-file-to-update-the-status-in-jira;title-of-your-scenario",
+        "after": [
+          {
+            "result": {
+              "duration": 2628608790,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Trigger.updateStatusInJira(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 80485,
+              "status": "passed"
+            },
+            "line": 23,
+            "name": "I want to write a step with precondition",
+            "match": {
+              "location": "Test.i_want_to_write_a_step_with_precondition()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1330309009,
+              "status": "passed"
+            },
+            "line": 24,
+            "name": "some other precondition",
+            "match": {
+              "location": "Test.some_other_precondition()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 40727,
+              "status": "passed"
+            },
+            "line": 25,
+            "name": "I complete action",
+            "match": {
+              "location": "Test.i_complete_action()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 32000,
+              "status": "passed"
+            },
+            "line": 26,
+            "name": "some other action",
+            "match": {
+              "location": "Test.some_other_action()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1248428242,
+              "status": "failed"
+            },
+            "line": 27,
+            "name": "yet another action",
+            "match": {
+              "location": "Test.yet_another_action()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 5411881,
+              "error_message": "java.lang.AssertionError: expected [true] but found [false]\r\n\tat org.testng.Assert.fail(Assert.java:94)\r\n\tat org.testng.Assert.failNotEquals(Assert.java:513)\r\n\tat org.testng.Assert.assertEqualsImpl(Assert.java:135)\r\n\tat org.testng.Assert.assertEquals(Assert.java:116)\r\n\tat org.testng.Assert.assertEquals(Assert.java:305)\r\n\tat org.testng.Assert.assertEquals(Assert.java:315)\r\n\tat com.test.stepDefinition.Test.failes(Test.java:42)\r\n\tat ✽.And failes(Demo.feature:28)\r\n",
+              "status": "skipped"
+            },
+            "line": 28,
+            "name": "failes",
+            "match": {
+              "location": "Test.failes()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "line": 21,
+            "name": "@ZAP-1"
+          }
+        ]
+      }
+    ],
+    "name": "Feature file to update the status in Jira",
+    "description": "",
+    "id": "feature-file-to-update-the-status-in-jira",
+    "keyword": "Feature",
+    "uri": "Demo.feature",
+    "tags": [
+      {
+        "line": 1,
+        "name": "@demo"
+      }
+    ]
+  }
+]
