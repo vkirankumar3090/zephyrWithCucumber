@@ -1,4 +1,4 @@
-package ZephyrWithCucumber.Zapi;
+package sample;
 
 import com.Zapi.Utilities.ZephyrTestCaseManagementCloud;
 
