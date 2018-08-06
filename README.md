@@ -1,6 +1,6 @@
 # zephyer
 
-This Framework will help u to update the Test Cycle Status and Steps of the Test Case which is executed in the Test Cycle.
+This Framework will help you to update the Test Cycle Status and Steps of the Test Case which is executed in the Test Cycle.
 
 With the help of cucumber json report it will update the status.
 
