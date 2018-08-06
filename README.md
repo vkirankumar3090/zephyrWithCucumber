@@ -8,6 +8,9 @@ Usage:
 
 	1. Each Test Case should be added as one scenario in the feature file.
 	2. Our feature file Steps and Zephyr test case steps should be same.
+	3. update the application.properties file with your jira and zephyr credentials.
+	4. Then just call "updateTestCaseAndStepStatus" method as specified in the Test.java class in your AfterSuite.
+	5. Then this framework will take care of updating the all the test case which is executed in the current run to the jira.
 	
 Example:
 	
