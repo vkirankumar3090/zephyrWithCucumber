@@ -11,8 +11,7 @@ Usage:
 	
 Example:
 	
-	
-	
+![Alt text](/images/scenarioSample.PNG)  ![Alt text](images/ZephyrSample.PNG)
 
 
 Reference:
